@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>liukcj - Features</title>
+    <subtitle>Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS.</subtitle>
+    <link href="https://liukcj.github.io/categories/features/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://liukcj.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-08-09T00:00:00+00:00</updated>
+    <id>https://liukcj.github.io/categories/features/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Testing Page</title>
+        <published>2023-08-09T00:00:00+00:00</published>
+        <updated>2023-08-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://liukcj.github.io/testing-page/" type="text/html"/>
+        <id>https://liukcj.github.io/testing-page/</id>
+        
+        <summary type="html">&lt;p&gt;This is testing page&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+    <entry xml:lang="en">
+        <title>Testing Page 2</title>
+        <published>2023-08-09T00:00:00+00:00</published>
+        <updated>2023-08-09T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://liukcj.github.io/testing-page2/" type="text/html"/>
+        <id>https://liukcj.github.io/testing-page2/</id>
+        
+        <summary type="html">&lt;p&gt;This is testing page&lt;&#x2F;p&gt;
+</summary>
+        
+    </entry>
+</feed>

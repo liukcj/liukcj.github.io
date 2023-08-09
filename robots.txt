@@ -1,0 +1,4 @@
+Sitemap: https://liukcj.github.io/sitemap.xml
+User-Agent: *
+Allow: /
+Host: https://liukcj.github.io
