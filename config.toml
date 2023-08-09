@@ -1,5 +1,5 @@
 # do NOT include a trailing slash on the base URL for web urls
-base_url = "https://abridge.netlify.app"
+base_url = "https://liukcj.github.io"
 #base_url = "/home/jieiku/.dev/abridge/public/" # for locally usable build directly from disk, also set in [extra] section uglyurls = true
 title = "liukcj"
 description = "Abridge is a fast and lightweight Zola theme using semantic html, abridge.css class-light CSS, and No Mandatory JS."
@@ -45,7 +45,7 @@ title_separator = "|"  # Separator between title and title_addition, set as |, -
 title_addition = "Fast & Lightweight Zola Theme" # a default value for title addition
 recent = true # TOC / index
 recent_items = 9
-author = "Jake G" # Put Your Name here
+author = "liukcj" # Put Your Name here
 
 title_size_index = "s85" # size: s95, s90, s85, s80, s75, s70, false(full size)
 meta_index = { position="bottom", size="s90", author=false, readtime=false, readstring="min", date=true, categories_tags=true, divider=" " }
@@ -96,7 +96,7 @@ js_bundle = true # multiple javascript files combined into a single file
 js_switcher = true
 js_search_facade = true # Do not load search until user interaction with search.
 # search library to use, valid values are: false, "elasticlunr", "tinysearch", "stork"
-search_library = false
+search_library = "tinysearch"
 
 js_search_index = "search_index.en.js" # Separate Always, generated each build
 js_prestyle = "prestyle.js"# Bundleable - used to preload: FontAwesome, Katex, external Google Fonts
